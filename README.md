@@ -12,9 +12,9 @@ This repository is **actively maintained**. I am continuously developing and add
 
 ## 📁 General Structure
 Every peripheral package is designed to be modular:
-* `src/` — Core driver implementations (initialization and register configurations).
-* `inc/` — Header files with bit masks, macros, and register maps.
-* `examples/` — Minimal code snippets demonstrating how to run the package.
+* `src/` - Core driver implementations (initialization and register configurations).
+* `inc/` - Header files with bit masks, macros, and register maps.
+* `examples/` - Minimal code snippets demonstrating how to run the package.
 
 ## 📝 License
 This project is open-source and licensed under the MIT License.
